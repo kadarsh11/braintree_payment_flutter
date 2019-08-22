@@ -1,8 +1,11 @@
 # Braintree Payment
+
+[![pub package](https://img.shields.io/badge/pub-v1.2.2-%23388EB9)](https://pub.dev/packages/braintree_payment)
+
     
     Available for Android and IOS
-
-
+    
+    
 <img src="https://apps.oscommerce.com/public/sites/Apps/schokoladenseite/0/0o/0oEmU-NcKOp.png" width="300" height="200"> <img src="https://media.licdn.com/dms/image/C4D0BAQH109445BY2gA/company-logo_200_200/0?e=2159024400&v=beta&t=dbU_2Y_ULhxJ1a2Q3mBmCKNbgVeqPjcL_g5CKsmy4CY" width="300" height="200">
 
 
